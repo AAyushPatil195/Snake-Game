@@ -1,2 +1,2 @@
 # Snake-Game
-A java based project that also includes java concepts and AWT.
+A Java-based Classic Snake Game using OOP principles, Swing, and AWT for GUI.
